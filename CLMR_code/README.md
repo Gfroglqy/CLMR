@@ -1,4 +1,4 @@
-# CLMR: reproduction package
+# CLMR
 
 This repository contains CLMR, fixed experiment configurations, and our protocol adapters. No trained CLMR checkpoints are distributed; reproduce the results by training with the configurations below. Dataset contents, pretrained RoBERTa files, and third-party model implementations are obtained from their owners and are not redistributed in the source repository.
 
