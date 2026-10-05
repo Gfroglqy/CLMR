@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.6.0+cu126
+transformers==4.52.3
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+nltk==3.9.1
+lemminflect==0.2.3
+tqdm==4.67.1

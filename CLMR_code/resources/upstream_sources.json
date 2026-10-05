@@ -1,0 +1,22 @@
+{
+  "melbert": {
+    "url": "https://github.com/jin530/MelBERT.git",
+    "commit": "11b0f78dae93c71c56b805dc28d810f6050c86c4"
+  },
+  "dags": {
+    "url": "https://github.com/VILAN-Lab/Metaphor-DAGS.git",
+    "commit": "6401b2bace75e69773656fccda7c013be605884d"
+  },
+  "roppt": {
+    "url": "https://github.com/MajiBear000/RoPPT.git",
+    "commit": "f29e1f2833bfdef832ff2a32ad80c50f334fd6ff"
+  },
+  "contrastwsd": {
+    "url": "https://github.com/melzohbi/ContrastWSD.git",
+    "commit": "64f045b47f018bdcc14b697e24be7cc459e5f148"
+  },
+  "misnet": {
+    "url": "https://github.com/SilasTHU/MisNet.git",
+    "commit": "f90f819b7e7fe5c4426ad501297c256bf72dcc9f"
+  }
+}
